@@ -1,7 +1,4 @@
 Here’s a **high-quality, professional, recruiter-level README** you can use for your GitHub project 👇
-
----
-
 # 🎮 Tic-Tac-Toe Game (Java)
 
 > A robust, console-based **two-player Tic-Tac-Toe game** developed in Java, demonstrating core programming principles such as data structures, control flow, and user interaction.
